@@ -35,44 +35,4 @@ Local Storage: The browser's localStorage API is used as a simple, client-side d
 ## 🚀 Getting Started
 To get a local copy up and running, follow these simple steps.
 
-### Prerequisites
-Make sure you have Node.js and npm installed on your machine.
 
-npm
-
-Bash
-
-npm install npm@latest -g
-### Installation
-Clone the repository:
-
-Bash
-
-git clone https://github.com/your-username/paisawise.git
-Navigate into the project directory:
-
-Bash
-
-cd paisawise
-Install NPM packages:
-
-Bash
-
-npm install
-Run the development server:
-
-Bash
-
-npm run dev
-You can now view the application at http://localhost:5173/ in your browser.
-
-## 🗺️ Future Roadmap
-This MVP serves as a strong foundation. Future enhancements planned include:
-
-[ ] User Accounts & Cloud Sync: To back up data and sync across devices.
-
-[ ] Budgeting: Allow users to set monthly budgets for different categories and receive alerts.
-
-[ ] Custom Categories: Ability to add, edit, or delete spending categories.
-
-[ ] Data Export: Functionality to export expense data to formats like CSV or Excel.
