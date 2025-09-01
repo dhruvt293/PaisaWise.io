@@ -32,7 +32,6 @@ Lucide React: Provides a beautiful and consistent set of open-source icons used 
 
 Local Storage: The browser's localStorage API is used as a simple, client-side database to persist user expense data across sessions without needing a backend.
 
-## 🚀 Getting Started
-To get a local copy up and running, follow these simple steps.
+
 
 
